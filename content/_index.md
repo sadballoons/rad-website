@@ -1,3 +1,3 @@
 ---
-header_image: "images/rad.jpeg"
+header_image: "images/rad.png"
 ---
