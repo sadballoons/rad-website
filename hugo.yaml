@@ -1,4 +1,4 @@
-baseURL: https://radballoons.com
+baseURL: /
 title: rad balloons
 theme: hugo-scroll
 languageCode: en-us
